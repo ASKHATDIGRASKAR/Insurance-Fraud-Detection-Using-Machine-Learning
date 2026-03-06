@@ -106,7 +106,7 @@ Age,Sex,VehiclePrice,AccidentArea,Fault,PastClaims
 Clone the repository:
 
 
-git clone 
+git clone https://github.com/ASKHATDIGRASKAR/Insurance-Fraud-Detection-Using-Machine-Learning.git
 
 
 Navigate to the project folder:
@@ -186,4 +186,5 @@ Contributions are welcome.
 # 📜 License
 
 This project is licensed under the MIT License.
+
 
