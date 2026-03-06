@@ -106,7 +106,7 @@ Age,Sex,VehiclePrice,AccidentArea,Fault,PastClaims
 Clone the repository:
 
 
-git clone https://github.com/yourusername/insurance-fraud-detection.git
+git clone 
 
 
 Navigate to the project folder:
@@ -186,3 +186,4 @@ Contributions are welcome.
 # 📜 License
 
 This project is licensed under the MIT License.
+
