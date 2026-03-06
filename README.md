@@ -182,6 +182,12 @@ Contributions are welcome.
 3. Submit a pull request  
 
 ---
+# 🙎 Authors
+Akshat Digraskar (0246AL231009)
+Akshay Parmar (0246AL231010)
+Alok Mishra (0246AL231011)
+Anand Vaidya (0246AL231012)
+
 
 # 📜 License
 
