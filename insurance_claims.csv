@@ -1,0 +1,11 @@
+Age,Sex,VehiclePrice,AccidentArea,Fault,PastClaims,Fraud
+22,Male,35000,Urban,Policy Holder,3,1
+45,Female,12000,Rural,Third Party,0,0
+33,Male,18000,Urban,Policy Holder,2,1
+52,Female,9000,Rural,Third Party,0,0
+27,Male,21000,Urban,Policy Holder,1,0
+36,Female,15000,Urban,Third Party,2,1
+41,Male,22000,Rural,Policy Holder,0,0
+29,Female,17000,Urban,Policy Holder,3,1
+50,Male,13000,Rural,Third Party,0,0
+38,Female,16000,Urban,Policy Holder,1,0
